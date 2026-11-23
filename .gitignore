@@ -1,0 +1,17 @@
+# Build output
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
+
+# Full dataset (about 514 MB): download it separately, see the README
+Airports2.csv
