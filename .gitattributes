@@ -1,2 +1,0 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
-Airports2.csv filter=lfs diff=lfs merge=lfs -text
